@@ -1,4 +1,5 @@
 # Phoenix Miner 
-Bat file for MAGA
+Bat file for MAGA mining on https://pool.realmagacoin.com/
 
-0xfe1dcff51e796a5ba8f07d8276c651a9b9618a50
+## How to run
+Upload the `1776_maga_realmagacoin.bat` file to the Phoenix Miner directory and run. 
